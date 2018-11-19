@@ -6,9 +6,7 @@ Currently, I've just imported the [Oculus Lipsync Utility v1.3.0 .unitypackage](
 ## PLANNED WORKFLOW
 - use this in real-time, in-game, to get accurate dynamic lip sync
 - OR automatically bake out lipsync data via an AssetPostProcessor / custom EditorWindow interface
-
-## ROADMAP
-- add built-in presets for a Mixamo Fuse Blendshape rig, or configure visemes for your own face rig
+- either way, use the built-in presets for a Mixamo Fuse Blendshape rig or 2D character portrait, and/or configure visemes for your own face rig
 
 ### CONTRIBUTORS
 - pull requests are welcome, look at the Roadmap above and feel free to start an Issue to introduce yourself
