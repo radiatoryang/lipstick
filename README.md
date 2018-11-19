@@ -3,6 +3,8 @@ Lipstick is an open-source fork of Oculus' OVRLipSync implementation for Unity (
 
 Currently, I've just imported the [Oculus Lipsync Utility v1.3.0 .unitypackage](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/) from the Oculus site, and haven't done any real work on this yet.
 
+In theory, works on Windows / Mac / Linux.
+
 ## PLANNED WORKFLOW
 - use this in real-time, in-game, to get accurate dynamic lip sync
 - OR automatically bake out lipsync data via an AssetPostProcessor / custom EditorWindow interface
