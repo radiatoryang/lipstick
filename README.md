@@ -6,8 +6,8 @@ Currently, I've just imported the [Oculus Lipsync Utility v1.3.0 .unitypackage](
 In theory, all of this will work fine on Windows / Mac / Android. (Oculus doesn't ship any lipsync binaries for Linux or iOS.) If you bake out the lip sync data, then it'd work for any platform.
 
 ## PLANNED WORKFLOW
-- use this in real-time, in-game, to get accurate dynamic lip sync
-- OR automatically bake out lipsync data via an AssetPostProcessor / custom EditorWindow interface
+- use this in real-time, in-game, to get accurate dynamic lip sync (Windows, Mac, Android)
+- OR automatically bake out lipsync data via an AssetPostProcessor / custom EditorWindow interface (any platform)
 - either way, use the built-in presets for a Mixamo Fuse Blendshape rig or 2D character portrait, and/or configure visemes for your own face rig
 
 ### CONTRIBUTORS
