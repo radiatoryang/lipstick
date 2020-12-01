@@ -1,4 +1,7 @@
 # lipstick
+
+## update, 1 Dec 2020: I never actually had time to work on this at all, so I'm just going to archive the repo for now, sorry
+
 Lipstick is an open-source fork of Oculus' OVRLipSync implementation for Unity (under Oculus Audio license) with some additional modifications to make it easier to use out of the box. It is not supported nor endorsed by Oculus in any way.
 
 Currently, I've just imported the [Oculus Lipsync Utility v1.3.0 .unitypackage](https://developer.oculus.com/downloads/package/oculus-lipsync-unity/) from the Oculus site, and haven't done any real work on this yet.
